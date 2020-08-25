@@ -1,1 +1,1 @@
-The contents of http://dibiphp.com and http://texy.info
+The contents of https://dibiphp.com and https://texy.info
